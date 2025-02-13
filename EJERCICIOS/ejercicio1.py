@@ -4,9 +4,9 @@ print ('\n+++++++++ determinar igualdad de numeros +++++++++')
 
 #intruducir mumeros
 
-num_1 =int(input('introdusca el primer numero'))
-num_2 =int(input('introdusca el segundo numero'))
-num_3 =int(input('introdusca el tercer numero'))
+num_1 =int(input('introdusca el primer numero: '))
+num_2 =int(input('introdusca el segundo numero: '))
+num_3 =int(input('introdusca el tercer numero: '))
 
 #determinar la igualdad
 

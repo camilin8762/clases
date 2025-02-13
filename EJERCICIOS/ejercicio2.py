@@ -2,7 +2,7 @@
 
 print('\n ++++++++++++ vamos a determinar cifras +++++++++++')
 
-num=int(input('por favor ingrese el numero'))
+num=int(input('por favor ingrese el numero: '))
 
 # determinar las cifras
 

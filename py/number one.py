@@ -3,7 +3,7 @@
 num=1
 
 while num!=0:  
-    num=int(input("introduzca el numero Numero"))
+    num=int(input("introduzca el numero Numero: "))
     if num==0: break
     else:
         print(f'-{num}')
