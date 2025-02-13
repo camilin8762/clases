@@ -1,19 +1,19 @@
 
-num_1=int(input("ingrese un numero"))
-num_2=int(input("ingrese un numero"))
+num_1=int(input("ingrese un numero: "))
+num_2=int(input("ingrese un numero: "))
 
 if num_1==num_2:
-    print("los numeros son iguales")
+    print("los numeros son iguales: ")
 elif num_1<num_2:
-    print("los numeros van en orden ascendete")
+    print("los numeros van en orden ascendete: ")
 elif num_1>num_2:
-    print("los numeros van en orden descendente") 
+    print("los numeros van en orden descendente: ") 
 else:
-    print('error')
+    print('Error: invalid ❌❌❌')
 
 
 
-est=input("ingrese su estrato")
+est=input("ingrese su estrato: ")
 
 match est:
     case 1:
