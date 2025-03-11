@@ -22,4 +22,4 @@ def promedio():
     pro=sum/(c-1)
     return pro
 
-print(f'El promedio de los numeros ingresados es{promedio()}')
+print(f'El promedio de los numeros ingresados es {promedio()}')

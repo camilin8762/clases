@@ -3,7 +3,7 @@ def media (lista):
     suma = 0
     for i in lista:
         suma = suma + i
-        m= suma / len(lista)
+        m = suma / len(lista)
     return  m
 
 def varianza(lista):

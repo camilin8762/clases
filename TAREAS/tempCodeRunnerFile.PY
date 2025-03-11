@@ -1,3 +1,4 @@
+import data 
 import random
 lista=[]
 random.choice=['USA','AUSTRALIA','CANADA']
