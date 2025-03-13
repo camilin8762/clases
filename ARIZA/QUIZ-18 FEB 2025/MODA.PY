@@ -4,8 +4,8 @@ import random
 def llenarli(lista,can):
     for i in range(can):
         num=random.randint(1,10)
-        li.append(num)
-    return li
+        lista.append(num)
+    return lista
 def ordenar_ascen(lista):
     inter=True
     
@@ -56,6 +56,8 @@ def moda(li):
 
 
 print(moda(li))
+
+
 
 
 
