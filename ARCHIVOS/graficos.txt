@@ -1,0 +1,40 @@
+diagramas estadisticos
+------------------------
+los que toman un valos en especifico se usa los siguientes diagramas:
+
+diagrama de barras
+
+poligono de frecuencias
+
+circular
+---------------------------------------------------------------------
+
+los que tomas intervalos son:
+
+histogramas
+
+poligono de frecuencias
+---------------------------------------------------------------------
+
+diagrama de barras : se hacen de manera vertical u horizontal,las barras van separadas
+de manera proporcional a la frecuencia
+
+histograma: las barras van pegadas con variables cuantitativas continuas
+se puede havcer un histograma con  el modelos y los años
+
+
+poligono de frecuencia :tiene varios lados se usa para cuantitativas y cualitativas ordinales
+
+grafico circular:  se usa de manera cualitativas discretas y se representa en porcetajes
+
+tallos y hojas : se usan de numeros
+
+cajas y bigotes
+
+
+pictograma: se usan imagenes
+
+
+
+
+
